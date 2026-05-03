@@ -21,6 +21,7 @@ Key highlights are:
 • Cost breakdown, labour versus food
 
 • Multi-location performance comparison
+
 You can view the Café Business Performance Dashboard in Power BI here:
 
 https://lnkd.in/dbmXjxSH
